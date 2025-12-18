@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/shiv1234-byte/Tree-visualizer/static/css/main.6e755e17.css",
-    "main.js": "/shiv1234-byte/Tree-visualizer/static/js/main.72dc7f64.js",
-    "static/js/453.d5f52525.chunk.js": "/shiv1234-byte/Tree-visualizer/static/js/453.d5f52525.chunk.js",
-    "index.html": "/shiv1234-byte/Tree-visualizer/index.html",
-    "main.6e755e17.css.map": "/shiv1234-byte/Tree-visualizer/static/css/main.6e755e17.css.map",
-    "main.72dc7f64.js.map": "/shiv1234-byte/Tree-visualizer/static/js/main.72dc7f64.js.map",
-    "453.d5f52525.chunk.js.map": "/shiv1234-byte/Tree-visualizer/static/js/453.d5f52525.chunk.js.map"
+    "main.css": "/Tree-visualizer/static/css/main.6e755e17.css",
+    "main.js": "/Tree-visualizer/static/js/main.83946b49.js",
+    "static/js/453.d5f52525.chunk.js": "/Tree-visualizer/static/js/453.d5f52525.chunk.js",
+    "index.html": "/Tree-visualizer/index.html",
+    "main.6e755e17.css.map": "/Tree-visualizer/static/css/main.6e755e17.css.map",
+    "main.83946b49.js.map": "/Tree-visualizer/static/js/main.83946b49.js.map",
+    "453.d5f52525.chunk.js.map": "/Tree-visualizer/static/js/453.d5f52525.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6e755e17.css",
-    "static/js/main.72dc7f64.js"
+    "static/js/main.83946b49.js"
   ]
 }
